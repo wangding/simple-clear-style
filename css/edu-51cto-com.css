@@ -1,0 +1,28 @@
+/* 
+ * 主要针对 51CTO 学院的教师个人页面进行设置：
+ * 
+ * 1. 隐藏无用的页面内容；
+ * 2. 适当调整页面元素的位置；
+ * 
+ */
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("edu.51cto.com") {
+  .pagebg ,             /* 广告条      */
+  .FixedSideBar,        /* 右侧工具条   */
+  .ConsoleLeft_Tag,     /* 左侧列表项   */
+  .ConsoleLeft_Tag_p,   /* 左侧 tag 云  */
+  .Footer+img,          /* 客服咨询      */
+  .Logo{                /* 学院 logo    */
+    
+    display: none;
+
+  }
+
+  .Header {              /* 导航条       */
+
+    padding: 20px 0px 20px 20px;
+
+  }
+}
