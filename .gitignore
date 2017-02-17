@@ -1,0 +1,4 @@
+# 忽略 HBuilder 创建的项目文件
+.project
+
+
