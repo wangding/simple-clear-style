@@ -1,0 +1,23 @@
+/*
+ * 全屏幕显示百度脑图
+ */
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("naotu.baidu.com") {
+  header,               /* 文件名标题栏   */
+  .nav-tabs,            /* tab 书签栏    */ 
+  .tab-content {        /* 工具栏按钮区域 */
+    display: none;
+  }
+
+                          /* 整个容器上移  */
+  div.minder-editor-container {
+    top: -93px;
+  }
+
+  .nav-bar {               /* 左下角的工具条 */
+    display: none;
+  }
+}
+

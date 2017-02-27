@@ -18,7 +18,9 @@
 
 点击下面的网址，直接安装该网站的样式。
 
-- [edu.51cto.com]  
+- [edu-51cto-com]  
+- [hostedredmine-com]
+- [naotu-baidu-com]
 
 ## 报告错误
 
@@ -29,4 +31,7 @@
 [Chrome]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
 [Firefox]: https://addons.mozilla.org/en-US/firefox/addon/stylish/
 [Safari]: http://sobolev.us/stylish
-[edu.51cto.com]: https://userstyles.org/styles/139056
+[edu-51cto-com]: https://userstyles.org/styles/139056
+[hostedredmine-com]: https://userstyles.org/styles/139487
+[naotu-baidu-com]: https://userstyles.org/styles/139491
+
