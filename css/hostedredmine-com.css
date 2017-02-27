@@ -1,0 +1,18 @@
+/*
+ * 去掉了右侧边栏
+ *
+ */
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("hostedredmine.com") {
+  #sidebar {
+    display: none;
+    width: 0%;
+  }
+ 
+  div#content {
+    width: 95%;
+  }
+}
+
