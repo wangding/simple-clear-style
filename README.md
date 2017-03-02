@@ -21,6 +21,7 @@
 - [edu-51cto-com]  
 - [hostedredmine-com]
 - [fullscreen-naotu-baidu]
+- [optimize-naotu-baidu]
 
 ## 报告错误
 
@@ -33,5 +34,6 @@
 [Safari]: http://sobolev.us/stylish
 [edu-51cto-com]: https://userstyles.org/styles/139056
 [hostedredmine-com]: https://userstyles.org/styles/139487
-[naotu-baidu-com]: https://userstyles.org/styles/139491
+[fullscreen-naotu-baidu]: https://userstyles.org/styles/139491
+[optimize-naotu-baidu]: https://userstyles.org/styles/139604
 

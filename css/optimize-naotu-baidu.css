@@ -1,0 +1,21 @@
+/*
+ *  改大百度脑图批量操作时对话框的尺寸，减少鼠标的滚动操作。
+ *
+ */
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("naotu.baidu.com") {
+  .modal-sm {           /* 模式对话框的宽度      */
+    width: 400px;
+  }
+
+  .modal-dailog {        /* 模式对话框的上边距     */
+    margin-top: 100px;
+  }
+
+  .root-dir-wrap {        /* 对话框中目录选择容器   */
+    height: 300px;
+  }
+}
+
