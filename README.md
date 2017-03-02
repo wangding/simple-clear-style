@@ -20,7 +20,7 @@
 
 - [edu-51cto-com]  
 - [hostedredmine-com]
-- [naotu-baidu-com]
+- [fullscreen-naotu-baidu]
 
 ## 报告错误
 

@@ -1,4 +1,4 @@
-# naotu.baidu.com
+# fullscreen-naotu.baidu
 
 主要针对百度脑图的编辑页面，进行简洁化和高效化的样式设置：
 
