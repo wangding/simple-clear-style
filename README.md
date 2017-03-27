@@ -22,6 +22,7 @@
 - [hostedredmine-com]
 - [fullscreen-naotu-baidu]
 - [optimize-naotu-baidu]
+- [simple-jobbole]
 
 ## 报告错误
 
@@ -36,4 +37,6 @@
 [hostedredmine-com]: https://userstyles.org/styles/139487
 [fullscreen-naotu-baidu]: https://userstyles.org/styles/139491
 [optimize-naotu-baidu]: https://userstyles.org/styles/139604
+[simple-jobbole]: https://userstyles.org/styles/140594
+
 
