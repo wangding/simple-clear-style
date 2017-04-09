@@ -16,6 +16,7 @@
   .Footer+img,          /* 客服咨询     */
   .Main,                /* 微职位       */
   .micro_position_Rec,  /* 微职位       */
+  .qqbm_bs_box,         /* 右侧在线咨询  */
   .Logo{                /* 学院 logo    */
     display: none;
   }
