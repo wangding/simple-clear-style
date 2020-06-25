@@ -1,0 +1,22 @@
+/* 
+ * 主要针对processon网站的个人文件主页，进行美化的样式设置：
+ * 
+ * 1. 隐藏页面顶部的一个广告图片
+ * 2. 隐藏页面顶部的一个超链接按钮
+ * 3. 增加了网页的背景颜色，看起来更清爽、漂亮。
+ * 
+ */
+
+@-moz-document domain("processon.com") {
+header>a.header-btn {       /*标头上的一个超链接按钮*/
+    display: none!important;   /* 隐藏一个超链接按钮*
+}
+.right-item>a {       /*网页右上角的一个广告链接*/
+    display: none;   /* 隐藏广告图片*/
+}
+body,html {         
+    background-color: lightcyan;  /* 增加网页背景色 */
+   
+}
+}
+
